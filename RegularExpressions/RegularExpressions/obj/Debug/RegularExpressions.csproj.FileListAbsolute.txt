@@ -1,0 +1,31 @@
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Form1.resources
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Properties.Resources.resources
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.GenerateResource.cache
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\OverHype\source\repos\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Form1.resources
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Properties.Resources.resources
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.GenerateResource.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.AssemblyReference.cache
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.SuggestedBindingRedirects.cache
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Form1.resources
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.Properties.Resources.resources
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.GenerateResource.cache
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+Z:\Facultate\Sem2\LFA\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
